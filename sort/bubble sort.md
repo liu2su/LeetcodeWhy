@@ -2,8 +2,11 @@
 ### Leetcode: 75. Sort Colors
 ###
 ![bubblesort](https://github.com/liu2su/leetcode/assets/96462566/bf6b0631-4654-4fec-bf17-3964f2ed696f)
+
 Best case: O(n^2)
+
 Avertage case : O(n^2)
+
 Worst case: O(n^2)
 
 ### Code
