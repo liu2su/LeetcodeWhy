@@ -10,7 +10,7 @@ Worst case: O(n^2)
 ```java
 class Solution {
     public void sortColors(int[] nums) {
-        //Insertion Sort,插入排序的sorted array在数组的头部，与冒泡排序相反
+        //选择排序的sorted array在数组的头部，与冒泡排序相反
         int temp = 0;//temp variable 记录子数组的最小值
         int tempindex = 0;
         for(int i = 0;i< nums.length -1;i++){
