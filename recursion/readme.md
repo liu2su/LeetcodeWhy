@@ -8,10 +8,8 @@
 **虽然学习递归很难，但是不用担心，本post会通过四个部分让你彻底掌握递归**
 
 ## Part1: 以栈为核心，了解递归的微观执行过程
-```html
+[part1视频教程](https://www.bilibili.com/video/BV15g4y1g7CM?p=3&spm_id_from=pageDriver&vd_source=a8faf89fe79fd69a6f90de3b47a9f852)
 
-<video id="video" controls="" preload="none" poster="">
-      <source id="mp4" src="https://www.bilibili.com/video/BV15g4y1g7CM/?p=2&share_source=copy_web&vd_source=88879f557024759d9fb64899056e12d4" type="video/mp4">
-</videos>
-```
-[day 1 - 递归的微观执行过程.pptx](https://github.com/liu2su/leetcode/files/11547862/day.1.-.pptx)
+[part 1 - 递归的微观执行过程.pptx](https://github.com/liu2su/leetcode/files/11547862/day.1.-.pptx)
+
+
