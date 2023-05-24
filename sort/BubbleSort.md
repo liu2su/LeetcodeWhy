@@ -1,7 +1,9 @@
 ## Bubble Sort
 ### Leetcode: 75. Sort Colors
 ###
-![bubblesort](https://github.com/liu2su/leetcode/assets/96462566/bf6b0631-4654-4fec-bf17-3964f2ed696f)
+
+![849589-20171015223238449-2146169197](https://github.com/liu2su/leetcode/assets/96462566/0dd80500-6b04-40db-ab49-3df5c3d8710f)
+
 
 Best case: O(n^2)
 
