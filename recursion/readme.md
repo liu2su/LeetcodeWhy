@@ -11,5 +11,7 @@
 [视频教程](https://www.bilibili.com/video/BV15g4y1g7CM?p=3&spm_id_from=pageDriver&vd_source=a8faf89fe79fd69a6f90de3b47a9f852)
 ## Part1: 以栈为核心，了解递归的微观执行过程
 [part 1 - 递归的微观执行过程.pptx](https://github.com/liu2su/leetcode/files/11547862/day.1.-.pptx)
+## Part2: 递归处理线性结构
+
 
 
