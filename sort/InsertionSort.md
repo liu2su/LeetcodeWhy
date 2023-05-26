@@ -1,7 +1,7 @@
 ## Insertion Sort
 leetCode 75. Sort Colors
 
-![insertion sort](https://github.com/liu2su/leetcode/assets/96462566/4857040d-8e6c-4786-bd50-5c19d120d85d)
+![insertionsort](https://github.com/liu2su/leetcode/assets/96462566/97a4fd59-867d-4e3d-888b-7d3cbc36cdff)
 
  ```java
  class Solution {
