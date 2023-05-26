@@ -1,7 +1,7 @@
 ## Selection Sort
 leetCode 75. Sort Colors
 
-![selection sort](https://github.com/liu2su/leetcode/assets/96462566/796c75a8-d545-4899-b885-e6f5be713d4a)
+![selectionsort](https://github.com/liu2su/leetcode/assets/96462566/5f10bba3-647f-49ea-9a2d-b22a4339d875)
 
 Best case: O(n^2)
 
