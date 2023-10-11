@@ -13,5 +13,7 @@ assume **n** is the size of data, f(n) is the mathematical fromula of time compl
 ![Screenshot 2023-10-11 132158](https://github.com/liu2su/LeetcodeWhy/assets/96462566/8afd1237-df37-4b85-a2e3-9b30d945602a)
 
 a) asymptotic upper bound
+
 b) asymptotic lower bound
+
 c) asymptotic tight bounds
