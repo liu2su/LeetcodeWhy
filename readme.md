@@ -1,5 +1,10 @@
-# LeetCodeWhy
+## 数据结构中央对照
 
-目前数组已经更新完
+### 链表
+单向链表 singly linked list
 
-基础题：6道 进阶题：11道
+双向链表 doubly linked list
+
+循环链表 circular linked list 
+
+哨兵节点 sentinel / 哑元 dummy
