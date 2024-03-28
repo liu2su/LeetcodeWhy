@@ -15,3 +15,5 @@
 度 degree
 
 高 height
+
+二叉查找树 Binary Search Tree
