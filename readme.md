@@ -6,7 +6,7 @@
 循环链表 circular linked list 
 哨兵节点 sentinel / 哑元 dummy
 
-###树
+### 树
 二叉树 binary tree
 度 degree
 高 height
